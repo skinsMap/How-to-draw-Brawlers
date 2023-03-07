@@ -28,37 +28,49 @@
   
   "Category": [
     {
-      "category_title": "Sharingan Eyes",
-      "category_preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/Untitled-2.png",
+      "category_title": "Brawlers",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/Untitled-2.png",
       "category_list": [
         {
-          "name": "Sharingan Eyes",
-          "cover": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/Untitled-3.png"
+          "name": "Brawlers",
+          "cover": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/Untitled-3.png"
         }
       ]
     }
   ],
-  "Sharingan Eyes": [
+  "Brawlers": [
     {
-      "title": "Sharingan Eyes 1",
-      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_00.png",
+      "title": "Brawlers 1",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_00.png",
       "locked": false,
       "steps": [
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_00.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_01.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_02.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_03.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_04.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_05.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_06.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_07.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_08.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_09.png",
-        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_10.png"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_08.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_09.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_11.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_12.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_13.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_14.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_15.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_16.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_17.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_18.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_19.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_20.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_21.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_22.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Brawlers/main/New%20Folder%20With%20Items/fdcb5c_23.png"
       ]
     },
     {
-      "title": "Sharingan Eyes 2",
+      "title": "Brawlers 2",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_00.png",
       "locked": true,
       "steps": [
@@ -74,7 +86,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 3",
+      "title": "Brawlers 3",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_00.png",
       "locked": false,
       "steps": [
@@ -88,7 +100,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 4",
+      "title": "Brawlers 4",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_00.png",
       "locked": true,
       "steps": [
@@ -104,7 +116,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 5",
+      "title": "Brawlers 5",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_00.png",
       "locked": false,
       "steps": [
@@ -119,7 +131,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 6",
+      "title": "Brawlers 6",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_00.png",
       "locked": true,
       "steps": [
@@ -136,7 +148,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 7",
+      "title": "Brawlers 7",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_00.png",
       "locked": true,
       "steps": [
@@ -151,7 +163,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 8",
+      "title": "Brawlers 8",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_00.png",
       "locked": false,
       "steps": [
@@ -168,7 +180,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 9",
+      "title": "Brawlers 9",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_00.png",
       "locked": true,
       "steps": [
@@ -183,7 +195,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 10",
+      "title": "Brawlers 10",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_00.png",
       "locked": false,
       "steps": [
@@ -198,7 +210,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 11",
+      "title": "Brawlers 11",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_00.png",
       "locked": true,
       "steps": [
@@ -214,7 +226,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 12",
+      "title": "Brawlers 12",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_00.png",
       "locked": true,
       "steps": [
@@ -233,7 +245,7 @@
       ]
     },
     {
-      "title": "Sharingan Eyes 13",
+      "title": "Brawlers 13",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_00.png",
       "locked": true,
       "steps": [
@@ -249,7 +261,7 @@
        ]
      },
     {
-      "title": "Sharingan Eyes 14",
+      "title": "Brawlers 14",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_00.png",
       "locked": true,
       "steps": [
@@ -264,7 +276,7 @@
        ]
      },
     {
-      "title": "Sharingan Eyes 15",
+      "title": "Brawlers 15",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_00.png",
       "locked": true,
       "steps": [
