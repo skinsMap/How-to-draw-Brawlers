@@ -4,114 +4,282 @@
     "AdNetwork"              : "admob",
     "IntervalClick"          : 1,
 
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_OpenAd"           : "ca-app-pub-3940256099942544/3419835294",
+    "AdMob_Banner"           : "ca-app-pub-3071522790697118/2444357986",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3071522790697118/8818194640",
+    "AdMob_RewardAd"         : "ca-app-pub-3071522790697118/7121969597",
+    "AdMob_OpenAd"           : "ca-app-pub-3071522790697118/6631015002",
     "OpenAd_status"          : true ,
 
-    "Facebook_Banner"        : "871738060667001_871738510666956",
-    "Facebook_InterstitialAd": "871738060667001_871738604000280",
-    "Facebook_RewardAd"      : "ca-app-pub-3940256099942544/1033173712",
+    "Facebook_Banner"        : "928124084879679_928125968212824",
+    "Facebook_InterstitialAd": "928124084879679_928125998212821",
+    "Facebook_RewardAd"      : "928124084879679_928126044879483",
 
-    "Applovin_Banner"        : "4f657f6640db2eeb",
-    "Applovin_InterstitialAd": "362e843f5198f772",
-    "Applovin_RewardAd"      : "362e843f5198f772",
+    "Applovin_Banner"        : "",
+    "Applovin_InterstitialAd": "",
+    "Applovin_RewardAd"      : "",
 
-    "Unity_GameID"           : "5037733",
-    "Unity_Banner"           : "Banner_Android",
-    "Unity_InterstitialAd"   : "Interstitial_Android",
-    "Unity_RewardAd"         : "video",
+    "Unity_GameID"           : "",
+    "Unity_Banner"           : "",
+    "Unity_InterstitialAd"   : "",
+    "Unity_RewardAd"         : "",
 
-    "IronSourceKey"          : "178437e45"
+    "IronSourceKey"          : ""
   },
   
   "Category": [
     {
-      "category_title": "Anime",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/anime.png",
+      "category_title": "Sharingan Eyes",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/Untitled-2.png",
       "category_list": [
         {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
-        }
-      ]
-    },
-    {
-      "category_title": "Poses",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/poses.png",
-      "category_list": [
-        {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+          "name": "Sharingan Eyes",
+          "cover": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/Untitled-3.png"
         }
       ]
     }
   ],
-  "One Piece": [
+  "Sharingan Eyes": [
     {
-      "title": "San Jy",
-      "preview": "https://e7.pngegg.com/pngimages/997/382/png-clipart-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-pirate-warriors-nami-one-piece-manga-fictional-character.png",
+      "title": "Sharingan Eyes 1",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_00.png",
       "locked": false,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_08.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_09.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_10.png"
       ]
     },
     {
-      "title": "Monkey D.Luffy",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/luffy.png",
+      "title": "Sharingan Eyes 2",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_00.png",
       "locked": true,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%202/543186_08.png"
       ]
     },
     {
-      "title": "Nami",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "title": "Sharingan Eyes 3",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_00.png",
       "locked": false,
       "steps": [
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/3.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/4.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/5.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/6.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/7.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/8.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/9.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/11.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/12.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/13.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/14.png"
-      ]
-    }
-  ],
-  "Naruto": [
-    {
-      "title": "Naruto",
-      "preview": "",
-      "steps": [
-        "nar_1",
-        "nar_2"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%203/6547f_06.png"
       ]
     },
     {
-      "title": "Kakashi Hatake",
-      "preview": "",
+      "title": "Sharingan Eyes 4",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_00.png",
+      "locked": true,
       "steps": [
-        "kak_1",
-        "kak_2"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%204/4621_08.png"
       ]
-    }
+    },
+    {
+      "title": "Sharingan Eyes 5",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%205/678fcc_07.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 6",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_08.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%206/572_09.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 7",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%207/449a_07.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 8",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_08.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%208/93dd5_10.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 9",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%209/89c_07.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 10",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2010/38_07.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 11",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2011/9f351_08.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 12",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_08.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_09.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_10.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2012/5f_11.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 13",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2013/2fcd9_08.png"
+       ]
+     },
+    {
+      "title": "Sharingan Eyes 14",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2014/2d_07.png"
+       ]
+     },
+    {
+      "title": "Sharingan Eyes 15",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_08.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_09.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items%2015/1bd_10.png"
+      ]   
+    }   
   ]
 }
